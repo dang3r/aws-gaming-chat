@@ -1,0 +1,239 @@
+Ventrilo Public Server Software License, Version 3.0.0
+
+THIS SOFTWARE LICENSE AGREEMENT (the "Agreement') is a legal agreement 
+between you (either an individual or single entity) and Flagship Industries, Inc. 
+("Flagship") for the software identified above.  By installing, copying, downloading, 
+accessing or otherwise using the software or its documentation, you agree to be bound 
+by the terms of this Agreement.  If you do not agree to the terms of this Agreement, do 
+not install or use the software or its documentation.
+
+COPYING OF THIS COMPUTER PROGRAM OR ITS DOCUMENTATION EXCEPT 
+AS PERMITTED BY THIS LICENSE IS COPYRIGHT INFRINGEMENT UNDER THE 
+LAWS OF YOUR COUNTRY.  IF YOU COPY THIS COMPUTER PROGRAM 
+WITHOUT PERMISSION OF FLAGSHIP, YOU ARE VIOLATING THE LAW.  YOU 
+MAY BE LIABLE TO FLAGSHIP FOR DAMAGES, AND YOU MAY BE SUBJECT TO 
+CRIMINAL PENALTIES.
+
+1. DEFINITIONS.
+1.1 "Software" means the server software identified above and any associated media, 
+printed materials, and online or electronic documentation, including any updates or 
+supplements provided to you by Flagship.
+
+1.2 "Client Software" means a software product that allows a Client Computer to 
+access or utilize the Software.
+
+1.3 "Client Computer" means an electronic device used to access or utilize the 
+Software.
+
+1.4 "Server" means a computer capable of running server software.
+
+2. GRANT OF LICENSE. Subject to the terms and conditions of this Agreement, you 
+may install a single copy of the Software on one (1) Server owned or leased by you and 
+allow up to eight (8) Client Computers to access and use the Software for non-
+commercial purposes, provided no fee is charged either directly or indirectly for access 
+and use of the Software.
+
+4. USE OF THE SOFTWARE.
+
+4.1 Restrictions on Use. The license granted by Flagship to use the Software is subject 
+to the following restrictions:
+
+4.1.1 The Software may be used at any point in time only by eight (8) Client 
+Computers.  You agree that attempting to override the configuration 
+requirements of the Software shall be a breach of this Agreement, entitling 
+Flagship to immediately terminate the license granted herein and to collect 
+appropriate damages.
+
+4.1.2 The Software is for personal use only.  You may not use the Software for 
+any commercial purpose or charge any fee, directly or indirectly, for copying, use, 
+or access to the Software.  You agree not to include use or access to the 
+Software in any rental, membership, license agreement or other goods or 
+services for which a fee is charged directly or indirectly.  You agree not to rent, 
+lease, license, sell or charge any fee directly or indirectly for use or access to any 
+Server or other device on which the Software is installed.
+
+4.1.3 The Software is provided in and may be used in machine-readable object 
+code form only.  You may use the Software only in its original form, and shall not 
+modify, reverse compile, reverse engineer, disassemble, or translate the 
+Software.  You may not merge the Software into another program, create any 
+derivative works or otherwise use the Software except as specifically permitted in 
+this Agreement.  You acknowledge and agree that any modification of the 
+Software may subject you to legal action and monetary damages.
+
+4.1.4 This Software is licensed as a single product.  Its components may not be 
+separated for use on more than one device. 
+
+4.1.5 You shall not rent, lease, sublicense, lend, allow access to, or transfer the 
+Software to any other party, by operation of law or otherwise except as 
+specifically permitted in this Agreement.
+
+4.1.6 You may not export or re-export the Software without first having obtained 
+the appropriate United States or foreign government export licenses; provided, 
+however, that in no event may you export the Software to any country to which 
+export is prohibited by the United States, or to any country which is not a 
+member of either the Universal Copyright Convention or the Berne Convention (a 
+"Member Country"); provided, that any export to a Member Country is only 
+permitted if such Member Country recognizes copyright protection for software.
+
+4.1.7 You may not permit any device to access or use the Software through any 
+program or means other than Client Software provided and licensed for use by 
+Flagship.
+
+4.1.8 You agree not to use any kind of router, firewall or other internet device to 
+redirect IP or port numbers to obscure the actual IP address and port number of 
+any of your Servers on which the Software is installed.
+
+4.1.9 You may not install or permit any third-party to install any Ventrilo server 
+software other than the licensed Software on your computers.
+
+4.2 Proprietary Rights. The Software is copyrighted material under the laws of the 
+United States and international treaty provisions.  Notwithstanding the copyright, the 
+Software contains trade secrets and confidential information of Flagship.  You may 
+make a single copy in machine-readable form of the program that is part of the 
+Software; provided the copy is used only as permitted by this Agreement and contains 
+the original copyright notice and all proprietary legends.  In addition, you may make a 
+single copy of the any documentation accompanying the program for each Client 
+Computer, provided all copies of the documentation contain the original copyright notice 
+and all proprietary legends.  No other copies may be made of the Software, the 
+documentation or any part thereof, except as specifically permitted herein.
+
+4.3 Confidentiality.
+
+4.3.1 Protection of the Software. The Software and all copies of it, regardless of 
+the form or media in which the original or copies may exist, are the sole and 
+exclusive property of Flagship.  By accepting this license, you agree that the 
+Software, including the source and object codes, logic and structure, constitute 
+valuable trade secrets of Flagship.  Except as expressly permitted herein, you 
+agree not to disclose, post, transfer, transmit, permit downloading or copying or 
+otherwise make available any part of the Software to any third party on any 
+basis.  By accepting this License, you do not become the owner of the Software 
+and Flagship retains all right, title and interest in and to the Software.  This 
+section shall survive any termination of this Agreement.  
+
+4.4 Trademarks. This Agreement does not grant you any rights in connection with any 
+trademarks or service marks of Flagship.
+
+4.5 Personal Use Only. The Software is for personal use only.  You agree to use the 
+software solely for non-commercial, personal use.
+
+4.6 Phone Home Capability.  Flagship may utilize a phone home functionality in which 
+the Software periodically communicates with Flagship servers to verify authentication, 
+check for new versions and provide more advanced features and functionality.  
+Flagship's phone-home system will not collect any information about you, your 
+computer, your browsing habits, or your identification.
+
+4.7 Denial of Service.  Flagship expressly reserves the right to temporarily or 
+permanently deny service without notice at any time.  Flagship will immediately deny 
+service for: (i) use of any unauthorized tool or software; and/or (ii) use of any server or 
+client that Flagship determines in its sole discretion to be improper, including but not 
+limited to use of any server or client that is fraudulent, "hacked," and/or alternate.
+
+5. TERM OF AGREEMENT.
+
+5.1 Term. This Agreement is effective upon first copying, downloading, accessing or 
+other use of the Software, and shall remain in effect until terminated by Flagship or by 
+operation of this Agreement.
+
+5.2 Termination.  Flagship may terminate this Agreement and the license granted herein 
+upon one (1) month prior notice to you for any reason or immediately upon breach of 
+any provision of this Agreement.  You may terminate this Agreement by destroying all 
+copies of Software in your possession or control, in whatever form or media, and 
+deleting the Software from your computers.
+
+5.3 Actions to be Taken Upon Termination. Upon termination, you agree to immediately 
+discontinue use of and destroy all or partial copies of Software, in whatever form or 
+media, and to delete the Software from your computer libraries.  You agree to take all 
+steps as may be reasonably requested by Flagship to ensure that the Software on your 
+computers has been removed.
+
+5.4 Effect of Termination. Termination of this Agreement shall not bar Flagship from 
+seeking any other remedy it may have available against you for breach of this 
+Agreement.
+
+6. NO WARRANTIES.  FLAGSHIP EXPRESSLY DISCLAIMS ANY WARRANTY FOR 
+THE SOFTWARE.  THE SOFTWARE AND ANY RELATED DOCUMENTATION IS 
+PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR 
+IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR 
+NONINFRINGEMENT.  THE ENTIRE RISK ARISING OUT OF USE OR 
+PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU.
+
+7. LIMITATIONS OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY 
+APPLICABLE LAW, IN NO EVENT SHALL FLAGSHIP BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES 
+WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS OR 
+BUSINESS INTERRUPTION, LOSS OF DATA OR LOSS OF USE OF SERVICES, OR 
+ANY OTHER PECUNIARY LOSS) WHETHER BASED UPON PRINCIPLES OF 
+CONTRACT, WARRANTY, NEGLIGENCE, STRICT LIABILITY OR OTHER TORT, 
+BREACH OF ANY STATUTORY DUTY, PRINCIPLES OF INDEMNITY OR 
+CONTRIBUTION, OR ANY OTHER THEORY OF LIABILITY, IN CONNECTION WITH 
+THIS AGREEMENT OR ARISING OUT OF THE USE OF THE SOFTWARE OR THE 
+PROVISION OR FAILURE TO PROVIDE SUPPORT SERVICES, EVEN IF FLAGSHIP 
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  BECAUSE SOME 
+STATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION 
+OF LIABILITY, THE ABOVE MAY NOT APPLY TO YOU.
+
+8. INDEMNIFICATION. You agree to defend, indemnify and hold harmless Flagship, its 
+officers, directors, employees, agents, representatives, shareholders, successors and 
+assigns from all claims, losses, damages, liabilities, obligations, costs and expenses, 
+including reasonable attorneys' fees, expenses and other consequences ("Claims") 
+arising from (1) your breach of any provision of this Agreement; (2) the unauthorized 
+use, duplication or disclosure of the Software provided to you; and/or (3) your use of the 
+Software, except for those Claims that arise solely as the result of Flagship's willful 
+misconduct or gross negligence.
+
+9. UPDATES AND NEW VERSIONS. Flagship may, at its discretion, make updates or 
+new versions of the Software available to you under such terms and conditions as may 
+be required by Flagship.  In the event that any such updates or new versions of the 
+Software are made available to you, you agree to update, delete from your computers 
+and/or otherwise discontinue use of previous versions of the Software.  Unless 
+otherwise agreed to in writing, this Agreement shall apply to any updated or new version 
+of the Software issued by Flagship.  However, Flagship may, at its discretion, terminate 
+this Agreement upon issuance of any new or updated version of the Software and 
+require that you to enter into a new license or addendum covering the new or updated 
+version of the Software.
+
+10. U.S. GOVERNMENT RESTRICTED RIGHTS.  This Software and documentation is 
+provided with RESTRICTED RIGHTS for U.S. Government customers.  Use, 
+duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in 
+FAR, 48 CFR 52.227-14 or DFAR, 48 CFR 252.227-7013, as applicable. Manufacturer 
+is Flagship, Industries, Inc., P.O. Box 198, Maryville, Illinois 62062.
+
+11. MISCELLANEOUS PROVISIONS.
+
+11.1 Assignment. Neither this Agreement nor any rights hereunder, in whole or in part, 
+shall be assignable, licensable or otherwise transferable by you, and any purported 
+assignment, sublicense or transfer shall be null and void.  Flagship may freely assign or 
+otherwise transfer all or any portion of its rights and obligations under this Agreement.
+
+11.2 Severability. If any term or provision of this Agreement shall be found to be illegal 
+or unenforceable, then, notwithstanding, it will be enforced to the maximum extent 
+permissible, and the legality and enforceability of the other provisions of this Agreement 
+will not be affected.  IT IS EXPRESSLY UNDERSTOOD AND AGREED THAT EACH 
+AND EVERY PROVISION OF THIS AGREEMENT WHICH PROVIDES FOR A 
+LIMITATION OF LIABILITY OR LIMITED WARRANTY IS INTENDED BY THE 
+PARTIES TO BE SEVERABLE AND INDEPENDENT OF ANY OTHER PROVISION 
+AND TO BE ENFORCED AS SUCH.
+
+11.3 Breach. No consent by either party to, or waiver of, a breach of this Agreement by 
+the other party, whether express or implied, shall constitute a consent to, waiver of, or 
+excuse for any other different, continuing, or subsequent breach.  Upon a breach of this 
+Agreement by you, Flagship shall be entitled to immediately terminate your right to use 
+the Software.
+
+11.4 Entire Agreement. This Agreement constitutes the entire agreement between the 
+parties concerning the Software and any prior versions of the Software and supersede, 
+terminates and replaces all prior agreements, whether written or verbal, between the 
+parties.  No amendment shall be considered to have been made to this Agreement 
+unless it is expressly agreed to by Flagship in a writing that refers to this Agreement. 
+
+11.5 Governing Law. The parties agree that this Agreement shall be governed and 
+construed by the laws of the State of Illinois.  You hereby submit and waive any 
+objection to the jurisdiction and venue of the state and federal courts of Illinois.  The 
+parties agree that this Agreement shall not be governed by the United Nations 
+Convention on Contracts for the International Sale of Goods.
+
+11.6 Liquidated Damages.  You hereby acknowledge that damages for breach of this 
+Agreement may be difficult to prove, and you agree that should you breach any 
+provision of this Agreement, you will pay Flagship the sum of five thousand dollars 
+($5,000.00) for each such breach.

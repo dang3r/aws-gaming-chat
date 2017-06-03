@@ -1,0 +1,26 @@
+{
+  "builders" : [{
+      "type": "amazon-ebs",
+      "communicator": "ssh",
+      "region": "us-east-1",
+      "source_ami": "ami-b14ba7a7",
+      "ami_name": "aws-gaming-chat",
+      "instance_type": "t2.nano",
+      "ssh_username": "admin"
+  }],
+  "provisioners": [
+    {
+      "type":"file",
+      "source": "root",
+      "destination":"/tmp/fs"
+    },
+    {
+      "type":"shell",
+      "inline": [
+        "sudo cp -R /tmp/fs/* /", 
+        "sudo apt-get -y update",
+        "sudo apt-get -y upgrade"
+      ]
+    }
+  ]
+}
